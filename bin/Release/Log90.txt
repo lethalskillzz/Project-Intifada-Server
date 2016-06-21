@@ -1,0 +1,1475 @@
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 20:59:57 2013
+) 
+  
+
+ 
+[Disassembly ]  (Mon Dec 02 21:00:13 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:00:13 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:00:15 2013
+) 
+  
+
+ 
+[File Manager  ]  (Mon Dec 02 21:00:20 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:00:21 2013
+) 
+  
+
+ 
+[File Manager  ]  (Mon Dec 02 21:00:23 2013
+) 
+  
+
+ 
+[SQLite Administrator - Intifada.db ]  (Mon Dec 02 21:00:40 2013
+) 
+  
+
+ 
+[SQLite Administrator - Not connected ]  (Mon Dec 02 21:00:42 2013
+) 
+  
+
+ 
+[File Manager  ]  (Mon Dec 02 21:00:42 2013
+) 
+  
+
+ 
+[File Download ]  (Mon Dec 02 21:00:47 2013
+) 
+  
+
+ 
+[Download Complete ]  (Mon Dec 02 21:01:06 2013
+) 
+  
+
+ 
+[File Download ]  (Mon Dec 02 21:01:08 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:01:14 2013
+) 
+  
+
+ 
+[Downloads ]  (Mon Dec 02 21:01:22 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Mon Dec 02 21:01:38 2013
+) 
+  
+
+ 
+[Server Edit ]  (Mon Dec 02 21:01:47 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Mon Dec 02 21:01:57 2013
+) 
+  
+
+ 
+[Statistics ]  (Mon Dec 02 21:01:59 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Mon Dec 02 21:02:03 2013
+) 
+  
+
+ 
+[INTIFADA_RAT | Settings ]  (Mon Dec 02 21:02:17 2013
+) 
+  
+
+ 
+[INTIFADA_RAT ]  (Mon Dec 02 21:02:19 2013
+) 
+  
+
+ 
+[Downloads ]  (Mon Dec 02 21:02:25 2013
+) 
+  
+
+ 
+[File Manager  ]  (Mon Dec 02 21:02:29 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:02:35 2013
+) 
+  
+
+ 
+[Screen Capture ]  (Mon Dec 02 21:02:42 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:02:45 2013
+) 
+  
+
+ 
+[Downloads ]  (Mon Dec 02 21:02:52 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:02:54 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:05:31 2013
+) 
+  
+else{
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:06:23 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:06:34 2013
+) 
+  
+
+ 
+[Task Manager ]  (Mon Dec 02 21:07:03 2013
+) 
+  
+
+ 
+[Untitled - Notepad ]  (Mon Dec 02 21:08:05 2013
+) 
+  
+
+ 
+[Notepad ]  (Mon Dec 02 21:08:09 2013
+) 
+  
+
+ 
+[Task Manager ]  (Mon Dec 02 21:08:11 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:08:23 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:08:25 2013
+) 
+  
+
+ 
+[JCreator ]  (Mon Dec 02 21:08:41 2013
+) 
+  
+
+ 
+[JCreator - [manifest2.xml] ]  (Mon Dec 02 21:08:43 2013
+) 
+  
+
+ 
+[Tip of the Day ]  (Mon Dec 02 21:08:43 2013
+) 
+  
+
+ 
+[JCreator - [manifest2.xml] ]  (Mon Dec 02 21:08:45 2013
+) 
+  
+
+ 
+[JCreator ]  (Mon Dec 02 21:08:48 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:08:48 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:09:17 2013
+) 
+  
+
+ 
+[commctrl.h - Code::Blocks 10.05 ]  (Mon Dec 02 21:09:19 2013
+) 
+  
+
+ 
+[resource.h [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:09:22 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:09:24 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:09:27 2013
+) 
+  
+
+ 
+[Server Generator ]  (Mon Dec 02 21:09:31 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:10:36 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:10:37 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:11:27 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:11:35 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:11:36 2013
+) 
+  
+
+ 
+[Find ]  (Mon Dec 02 21:11:39 2013
+) 
+  
+ene
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:11:43 2013
+) 
+  
+
+ 
+[Result ]  (Mon Dec 02 21:11:43 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:11:46 2013
+) 
+  
+
+ 
+[Find ]  (Mon Dec 02 21:11:49 2013
+) 
+  
+gene
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:11:55 2013
+) 
+  
+
+ 
+[Find ]  (Mon Dec 02 21:11:58 2013
+) 
+  
+rator
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:12:05 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:12:10 2013
+) 
+  
+g
+ 
+[Find ]  (Mon Dec 02 21:12:15 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:12:17 2013
+) 
+  
+
+ 
+[Find ]  (Mon Dec 02 21:12:23 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:12:25 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:12:30 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:12:45 2013
+) 
+  
+g
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:12:49 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:13:07 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:13:39 2013
+) 
+  
+
+ 
+[Downloads ]  (Mon Dec 02 21:13:44 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:13:48 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:14:19 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:14:19 2013
+) 
+  
+
+ 
+[Edit Colors ]  (Mon Dec 02 21:14:29 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:14:37 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:14:53 2013
+) 
+  
+40
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:15:04 2013
+) 
+  
+
+ 
+[Save As ]  (Mon Dec 02 21:15:12 2013
+) 
+  
+about2
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:15:36 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:15:36 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:15:38 2013
+) 
+  
+
+ 
+[about2.bmp - Paint ]  (Mon Dec 02 21:15:38 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:15:45 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:15:55 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:16:42 2013
+) 
+  
+about2
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:16:52 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:16:54 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:17:32 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:17:35 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:17:54 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:17:54 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:18:10 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:18:12 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:18:16 2013
+) 
+  
+
+ 
+[about2.bmp - Paint ]  (Mon Dec 02 21:18:25 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:18:27 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:18:29 2013
+) 
+  
+
+ 
+[Edit Colors ]  (Mon Dec 02 21:18:34 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:18:39 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:18:49 2013
+) 
+  
+6
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:18:57 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:19:04 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:19:08 2013
+) 
+  
+
+ 
+[Save As ]  (Mon Dec 02 21:19:13 2013
+) 
+  
+about2
+ 
+[Confirm Save As ]  (Mon Dec 02 21:19:27 2013
+) 
+  
+
+ 
+[Save As ]  (Mon Dec 02 21:19:29 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:19:29 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:19:29 2013
+) 
+  
+
+ 
+[riched.ico - Paint ]  (Mon Dec 02 21:19:30 2013
+) 
+  
+
+ 
+[about2.bmp - Paint ]  (Mon Dec 02 21:19:30 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:19:32 2013
+) 
+  
+ 
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:19:35 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:19:38 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:19:41 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:19:54 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:20:08 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:20:26 2013
+) 
+  
+
+ 
+[about2.bmp - Paint ]  (Mon Dec 02 21:20:26 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:20:30 2013
+) 
+  
+90
+ 
+[about2.bmp - Paint ]  (Mon Dec 02 21:20:36 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:20:40 2013
+) 
+  
+
+ 
+[about2.bmp - Paint ]  (Mon Dec 02 21:20:40 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:20:41 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:21:14 2013
+) 
+  
+
+ 
+[gettext.ico - Paint ]  (Mon Dec 02 21:21:14 2013
+) 
+  
+
+ 
+[Edit Colors ]  (Mon Dec 02 21:21:21 2013
+) 
+  
+
+ 
+[gettext.ico - Paint ]  (Mon Dec 02 21:21:25 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:21:41 2013
+) 
+  
+6
+ 
+[gettext.ico - Paint ]  (Mon Dec 02 21:21:51 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:21:53 2013
+) 
+  
+9
+ 
+[gettext.ico - Paint ]  (Mon Dec 02 21:22:02 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:22:11 2013
+) 
+  
+
+ 
+[gettext.ico - Paint ]  (Mon Dec 02 21:22:14 2013
+) 
+  
+
+ 
+[Save As ]  (Mon Dec 02 21:22:18 2013
+) 
+  
+info2
+ 
+[gettext.ico - Paint ]  (Mon Dec 02 21:22:30 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:22:31 2013
+) 
+  
+
+ 
+[gettext.ico - Paint ]  (Mon Dec 02 21:22:32 2013
+) 
+  
+
+ 
+[info2.bmp - Paint ]  (Mon Dec 02 21:22:32 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:22:37 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:22:38 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:22:42 2013
+) 
+  
+info2 
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:22:54 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:22:57 2013
+) 
+  
+
+ 
+[DarkComet-RAT v5.4 Legacy ]  (Mon Dec 02 21:24:06 2013
+) 
+  
+
+ 
+[Add Server Socket [Listen] ]  (Mon Dec 02 21:24:17 2013
+) 
+  
+
+ 
+[DarkComet-RAT v5.4 Legacy ]  (Mon Dec 02 21:24:23 2013
+) 
+  
+
+ 
+[include ]  (Mon Dec 02 21:24:39 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:24:41 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:24:57 2013
+) 
+  
+
+bROWSPG
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:25:28 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:25:47 2013
+) 
+  
+
+ 
+[WEBSITE.ICO - Paint ]  (Mon Dec 02 21:25:47 2013
+) 
+  
+
+ 
+[Edit Colors ]  (Mon Dec 02 21:26:01 2013
+) 
+  
+
+ 
+[WEBSITE.ICO - Paint ]  (Mon Dec 02 21:26:06 2013
+) 
+  
+
+ 
+[Save As ]  (Mon Dec 02 21:26:25 2013
+) 
+  
+Wepbpage
+ 
+[WEBSITE.ICO - Paint ]  (Mon Dec 02 21:26:52 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:26:52 2013
+) 
+  
+
+ 
+[WEBSITE.ICO - Paint ]  (Mon Dec 02 21:26:54 2013
+) 
+  
+
+ 
+[webpage.bmp - Paint ]  (Mon Dec 02 21:26:54 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:26:55 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:26:58 2013
+) 
+  
+wepbage
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:27:13 2013
+) 
+  
+
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:27:39 2013
+) 
+  
+5wb
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:27:58 2013
+) 
+  
+webpagewEBPAGE
+ 
+[resource.h [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:28:27 2013
+) 
+  
+
+
+ 
+[*resource.h [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:28:29 2013
+) 
+  
+                504
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:28:41 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:28:50 2013
+) 
+  
+
+1515
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:30:16 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:30:21 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:30:21 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:30:30 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:31:05 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:31:29 2013
+) 
+  
+
+ 
+[netfol.ico - Paint ]  (Mon Dec 02 21:31:30 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:31:43 2013
+) 
+  
+10
+ 
+[netfol.ico - Paint ]  (Mon Dec 02 21:31:52 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:31:55 2013
+) 
+  
+1
+ 
+[netfol.ico - Paint ]  (Mon Dec 02 21:32:00 2013
+) 
+  
+
+ 
+[Edit Colors ]  (Mon Dec 02 21:32:13 2013
+) 
+  
+
+ 
+[netfol.ico - Paint ]  (Mon Dec 02 21:32:19 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:32:34 2013
+) 
+  
+5
+ 
+[netfol.ico - Paint ]  (Mon Dec 02 21:32:38 2013
+) 
+  
+
+ 
+[Save As ]  (Mon Dec 02 21:32:51 2013
+) 
+  
+Func
+ 
+[netfol.ico - Paint ]  (Mon Dec 02 21:33:02 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:33:02 2013
+) 
+  
+
+ 
+[netfol.ico - Paint ]  (Mon Dec 02 21:33:03 2013
+) 
+  
+
+ 
+[netfunc.bmp - Paint ]  (Mon Dec 02 21:33:03 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:33:05 2013
+) 
+  
+
+ 
+[info2.bmp - Paint ]  (Mon Dec 02 21:33:07 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:33:09 2013
+) 
+  
+
+ 
+[include ]  (Mon Dec 02 21:33:09 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:33:22 2013
+) 
+  
+
+ 
+[include ]  (Mon Dec 02 21:33:24 2013
+) 
+  
+
+ 
+[Release ]  (Mon Dec 02 21:33:47 2013
+) 
+  
+
+ 
+[Jump List ]  (Mon Dec 02 21:33:50 2013
+) 
+  
+
+ 
+[Windows Explorer ]  (Mon Dec 02 21:33:52 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:33:52 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:33:57 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:33:59 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:34:06 2013
+) 
+  
+netfunc
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:34:15 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:34:18 2013
+) 
+  
+
+ 
+[Screen Capture ]  (Mon Dec 02 21:35:10 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:35:12 2013
+) 
+  
+
+ 
+[Task Manager ]  (Mon Dec 02 21:35:42 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:35:58 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:36:13 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:36:56 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:37:16 2013
+) 
+  
+urveilance
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:37:27 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:37:37 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:40:01 2013
+) 
+  
+
+ 
+[Find ]  (Mon Dec 02 21:40:24 2013
+) 
+  
+stop
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:40:27 2013
+) 
+  
+
+ 
+[Find ]  (Mon Dec 02 21:40:39 2013
+) 
+  
+listen
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:40:46 2013
+) 
+  
+
+ 
+[Find ]  (Mon Dec 02 21:40:49 2013
+) 
+  
+""stop
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:40:59 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:41:04 2013
+) 
+  
+cLose csocket 
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:41:46 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:41:57 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:42:57 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:43:30 2013
+) 
+  
+
+ 
+[Save (2).ico - Paint ]  (Mon Dec 02 21:43:30 2013
+) 
+  
+
+ 
+[Edit Colors ]  (Mon Dec 02 21:43:42 2013
+) 
+  
+
+ 
+[Save (2).ico - Paint ]  (Mon Dec 02 21:43:49 2013
+) 
+  
+
+ 
+[Save As ]  (Mon Dec 02 21:44:26 2013
+) 
+  
+3
+ 
+[Save (2).ico - Paint ]  (Mon Dec 02 21:44:38 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:44:38 2013
+) 
+  
+
+ 
+[Save (2).ico - Paint ]  (Mon Dec 02 21:44:40 2013
+) 
+  
+
+ 
+[Save3.bmp - Paint ]  (Mon Dec 02 21:44:40 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:44:42 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:44:44 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:44:54 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:45:17 2013
+) 
+  
+sAve3.bmp
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:45:31 2013
+) 
+  
+
+ 
+[Server generator ]  (Mon Dec 02 21:45:35 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:45:37 2013
+) 
+  
+
+ 
+[Settings ]  (Mon Dec 02 21:45:39 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:45:46 2013
+) 
+  
+
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:45:47 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:45:48 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:45:52 2013
+) 
+  
+
+ 
+[Settings ]  (Mon Dec 02 21:45:55 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:46:03 2013
+) 
+  
+
+ 
+[Keylogger ]  (Mon Dec 02 21:46:22 2013
+) 
+  
+
+ 
+[Settings ]  (Mon Dec 02 21:47:12 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:47:13 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:47:17 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:47:24 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:48:07 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:48:15 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:48:44 2013
+) 
+  
+
+ 
+[webpage.bmp - Paint ]  (Mon Dec 02 21:48:44 2013
+) 
+  
+
+ 
+[Resize and Skew ]  (Mon Dec 02 21:48:47 2013
+) 
+  
+105
+ 
+[webpage.bmp - Paint ]  (Mon Dec 02 21:49:02 2013
+) 
+  
+
+ 
+[Paint ]  (Mon Dec 02 21:49:10 2013
+) 
+  
+
+ 
+[webpage.bmp - Paint ]  (Mon Dec 02 21:49:11 2013
+) 
+  
+
+ 
+[WIN_LIST_2 ]  (Mon Dec 02 21:49:11 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:49:13 2013
+) 
+  
+ 
+ 
+[*resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:49:29 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:49:33 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 21:49:36 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:50:50 2013
+) 
+  
+
+ 
+[Jump List ]  (Mon Dec 02 21:50:57 2013
+) 
+  
+
+ 
+[resource.rc [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:50:59 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\main.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:50:59 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\usb_spread.cpp [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:50:59 2013
+) 
+  
+
+ 
+[usb_spread.cpp - Code::Blocks 10.05 ]  (Mon Dec 02 21:50:59 2013
+) 
+  
+
+ 
+[C:\Users\Physics(SWEP2011)\Desktop\C++\INTIFADA_RAT\acl.h [INTIFADA_RAT CLIENT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:50:59 2013
+) 
+  
+
+ 
+[main.cpp (INTIFADA_RAT) - Code::Blocks 10.05 ]  (Mon Dec 02 21:51:00 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:51:00 2013
+) 
+  
+
+ 
+[Start ]  (Mon Dec 02 21:53:01 2013
+) 
+  
+
+ 
+[Start menu ]  (Mon Dec 02 21:53:01 2013
+) 
+  
+
+ 
+[Run ]  (Mon Dec 02 21:53:09 2013
+) 
+  
+r
+ 
+[Program Manager ]  (Mon Dec 02 21:53:14 2013
+) 
+  
+
+ 
+[Registry Editor ]  (Mon Dec 02 21:53:15 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Mon Dec 02 21:56:09 2013
+) 
+  
+
+ 
+[Registry Editor ]  (Mon Dec 02 21:59:33 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Mon Dec 02 22:01:37 2013
+) 
+  
+/
+ 
+[*main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Mon Dec 02 22:01:49 2013
+) 
+  
+/""sYstemrOot;
+ 
+[Registry Editor ]  (Mon Dec 02 22:02:07 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 22:02:09 2013
+) 
+  
+
+ 
+[Registry Editor ]  (Mon Dec 02 22:02:11 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Mon Dec 02 22:02:13 2013
+) 
+  
+
+ 
+[Project_Intifada 1.0.2 ]  (Mon Dec 02 22:02:14 2013
+) 
+  
+
+ 
+[*main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Mon Dec 02 22:02:17 2013
+) 
+  
+
+ 
+[main.cpp [INTIFADA_RAT] - Code::Blocks 10.05 ]  (Mon Dec 02 22:02:17 2013
+) 
+  
+
+ 
+[Windows Task Manager ]  (Mon Dec 02 22:02:33 2013
+) 
+  
+

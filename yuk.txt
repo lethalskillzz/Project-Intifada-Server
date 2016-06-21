@@ -1,0 +1,28 @@
+
+Games
+C:\Program Files (x86)\Common Files
+C:\Program Files\Common Files
+%SystemRoot%\Media
+C:\Program Files (x86)
+%ProgramFiles(x86)%
+C:\Program Files
+Accessories
+Accessories
+C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+
+C:\Program Files (x86)\Hewlett-Packard\HP Quick Launch\HPMSGSVC.exe
+C:\Users\Physics(SWEP2011)\AppData.exe
+
+Games
+C:\Program Files (x86)\Common Files
+C:\Program Files\Common Files
+%SystemRoot%\Media
+C:\Program Files (x86)
+%ProgramFiles(x86)%
+C:\Program Files
+Accessories
+Accessories
+C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+
+C:\Program Files (x86)\Hewlett-Packard\HP Quick Launch\HPMSGSVC.exe
+C:\Users\Physics(SWEP2011)\AppData.exe

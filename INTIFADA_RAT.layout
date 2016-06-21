@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="acl.h" open="1" top="0" tabpos="3">
+		<Cursor position="14844" topLine="105" />
+	</File>
+	<File name="hook.h" open="0" top="0" tabpos="4">
+		<Cursor position="106" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="9408" topLine="978" />
+	</File>
+	<File name="sqlite3.c" open="0" top="0" tabpos="4">
+		<Cursor position="387609" topLine="8333" />
+	</File>
+	<File name="sqlite3.h" open="0" top="0" tabpos="4">
+		<Cursor position="740" topLine="0" />
+	</File>
+	<File name="usb_spread.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3267" topLine="34" />
+	</File>
+</CodeBlocks_layout_file>
